@@ -1,3 +1,4 @@
+![alt text](HandsOnProgrammingWithR.png)
 ## PlayingCards
 Code originally from the book Hands-On Programming with R by Garrett Grolemund
 An excellent source of simple procedures to use R amazing mechanisms to write robust simulation code.
